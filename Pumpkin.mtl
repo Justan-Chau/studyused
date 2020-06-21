@@ -9,8 +9,8 @@ Ks 0.139640 0.139640 0.139640
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd Textures images\Pumpkin.JPG
-map_Disp Textures images\\Pumpkin.JPG
+map_Kd Textures images\Pumpkin.png
+map_Disp Textures images\\Pumpkin.png
 
 newmtl Material.001
 Ns 194.117647
@@ -20,8 +20,8 @@ Ks 0.193694 0.193694 0.193694
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd Textures images\Green area.JPG
-map_Disp Textures images\\Green area.JPG
+map_Kd Textures images\Green area.png
+map_Disp Textures images\\Green area.png
 
 newmtl Material.002
 Ns 96.078431
